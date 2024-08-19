@@ -1,2 +1,3 @@
 # portfolio-1
-first attempt at portfolio
+https://ayushthakur04.github.io/portfolio-1/
+
